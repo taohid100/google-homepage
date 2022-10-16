@@ -117,6 +117,7 @@ section .main .lang a{
 section .main .lang a:hover{
   text-decoration: underline;
 }
+/*Footer start*/
 section .footer{
   position: absolute;
   bottom:0%;
